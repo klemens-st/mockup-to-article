@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I have learned how to indent my code better and make it more readable.
+It has also been useful to learn how to use the figure element properly.
+
+Translating the mockup was easy in general as I have some experience with HTML.
+I have not found anything challenging so far in this course.
+
+To overcome challenges I used the MDN to make sure I am using proper elements.
+For instance, to make a strikethrough I looked up all the elements that could achieve it
+and then chose the most appropriate one for my task.
